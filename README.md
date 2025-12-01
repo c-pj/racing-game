@@ -2,7 +2,7 @@ Click to download: [Demo Link](https://www.dropbox.com/scl/fo/mxdez58lmoy6y636gx
 
 Open MS.exe to play the demo.  
 
-Press Alt+F4 to close window within the demo.  
+Press Alt+F4 to close the demo.  
 
 Keyboard & Mouse Controls:  
     &emsp;- W = Throttle  
