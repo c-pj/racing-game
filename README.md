@@ -2,7 +2,7 @@ Click to download: [Demo Link (Dropbox)](https://www.dropbox.com/scl/fo/mxdez58l
 
 Gameplay footage: https://youtu.be/hW3ajFBbxSY  
 
-![](https://raw.githubusercontent.com/c-pj/racing-game/refs/heads/main/screenshot.png "Logo Title Text 1")  
+![](https://raw.githubusercontent.com/c-pj/racing-game/refs/heads/main/screenshot.png)  
 
 Open MS.exe to play the demo.  
 
