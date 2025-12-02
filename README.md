@@ -1,4 +1,8 @@
-Click to download: [Demo Link](https://www.dropbox.com/scl/fo/mxdez58lmoy6y636gxy87/AMw4dNoIL5xj1KcANCtBSI0?rlkey=r2aavgc2l2w3hjys483ii7kug)  
+Click to download: [Demo Link (Dropbox)](https://www.dropbox.com/scl/fo/mxdez58lmoy6y636gxy87/AMw4dNoIL5xj1KcANCtBSI0?rlkey=r2aavgc2l2w3hjys483ii7kug)  
+
+Gameplay footage: https://youtu.be/hW3ajFBbxSY  
+
+![](https://raw.githubusercontent.com/c-pj/racing-game/refs/heads/main/screenshot.png "Logo Title Text 1")  
 
 Open MS.exe to play the demo.  
 
